@@ -1,2 +1,2 @@
 # MachineLearningMasters
-Contains projects and assignments - course on Machine learning Masters from iNeuronAI
+Contains projects and assignments - course on Machine learning Masters
